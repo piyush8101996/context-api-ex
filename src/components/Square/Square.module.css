@@ -1,0 +1,18 @@
+.base {
+    border: 2px solid black;
+    display: flex;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    color: crimson;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+}
+
+.darkTheme {
+    border: 2px solid blue;
+    background-color: black;
+    color:white;
+}
